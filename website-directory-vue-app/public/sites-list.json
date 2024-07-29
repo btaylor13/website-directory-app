@@ -1,0 +1,350 @@
+[
+  {
+    "url": "https://techcrunch.com",
+    "wpVersion": "6.2"
+  },
+  {
+    "url": "http://www.bbc.co.uk/news",
+    "wpVersion": "5.9"
+  },
+  {
+    "url": "https://www.theguardian.com",
+    "wpVersion": "6.4"
+  },
+  {
+    "url": "https://www.nytimes.com",
+    "wpVersion": "6.1"
+  },
+  {
+    "url": "https://www.washingtonpost.com",
+    "wpVersion": "6.3"
+  },
+  {
+    "url": "https://www.cnn.com",
+    "wpVersion": "5.8"
+  },
+  {
+    "url": "https://www.forbes.com",
+    "wpVersion": "6.5"
+  },
+  {
+    "url": "https://www.reuters.com",
+    "wpVersion": "6.0"
+  },
+  {
+    "url": "https://www.bloomberg.com",
+    "wpVersion": "6.6"
+  },
+  {
+    "url": "https://www.npr.org",
+    "wpVersion": "6.2"
+  },
+  {
+    "url": "https://www.bbc.com",
+    "wpVersion": "5.9"
+  },
+  {
+    "url": "https://www.aljazeera.com",
+    "wpVersion": "6.3"
+  },
+  {
+    "url": "https://www.economist.com",
+    "wpVersion": "6.1"
+  },
+  {
+    "url": "https://www.time.com",
+    "wpVersion": "6.4"
+  },
+  {
+    "url": "https://www.nationalgeographic.com",
+    "wpVersion": "5.8"
+  },
+  {
+    "url": "https://www.wired.com",
+    "wpVersion": "6.5"
+  },
+  {
+    "url": "https://www.vice.com",
+    "wpVersion": "6.0"
+  },
+  {
+    "url": "https://www.vox.com",
+    "wpVersion": "6.6"
+  },
+  {
+    "url": "https://www.buzzfeed.com",
+    "wpVersion": "6.2"
+  },
+  {
+    "url": "https://www.huffpost.com",
+    "wpVersion": "5.9"
+  },
+  {
+    "url": "https://www.politico.com",
+    "wpVersion": "6.3"
+  },
+  {
+    "url": "https://www.slate.com",
+    "wpVersion": "6.1"
+  },
+  {
+    "url": "https://www.theatlantic.com",
+    "wpVersion": "6.4"
+  },
+  {
+    "url": "https://www.newyorker.com",
+    "wpVersion": "5.8"
+  },
+  {
+    "url": "https://www.rollingstone.com",
+    "wpVersion": "6.5"
+  },
+  {
+    "url": "https://www.vanityfair.com",
+    "wpVersion": "6.0"
+  },
+  {
+    "url": "https://www.menshealth.com",
+    "wpVersion": "6.1"
+  },
+  {
+    "url": "https://www.womenshealth.com",
+    "wpVersion": "6.4"
+  },
+  {
+    "url": "https://www.prevention.com",
+    "wpVersion": "5.8"
+  },
+  {
+    "url": "https://www.health.com",
+    "wpVersion": "6.5"
+  },
+  {
+    "url": "https://www.webmd.com",
+    "wpVersion": "6.0"
+  },
+  {
+    "url": "https://www.mayoclinic.org",
+    "wpVersion": "6.6"
+  },
+  {
+    "url": "https://www.medicalnewstoday.com",
+    "wpVersion": "6.2"
+  },
+  {
+    "url": "https://www.healthline.com",
+    "wpVersion": "5.9"
+  },
+  {
+    "url": "https://www.sciencedaily.com",
+    "wpVersion": "6.3"
+  },
+  {
+    "url": "https://www.scientificamerican.com",
+    "wpVersion": "6.1"
+  },
+  {
+    "url": "https://www.popsci.com",
+    "wpVersion": "6.4"
+  },
+  {
+    "url": "https://www.discovermagazine.com",
+    "wpVersion": "5.8"
+  },
+  {
+    "url": "https://www.nature.com",
+    "wpVersion": "6.5"
+  },
+  {
+    "url": "https://www.science.org",
+    "wpVersion": "6.0"
+  },
+  {
+    "url": "https://www.newscientist.com",
+    "wpVersion": "6.6"
+  },
+  {
+    "url": "https://www.space.com",
+    "wpVersion": "6.2"
+  },
+  {
+    "url": "https://www.nasa.gov",
+    "wpVersion": "5.9"
+  },
+  {
+    "url": "https://www.esa.int",
+    "wpVersion": "6.3"
+  },
+  {
+    "url": "https://www.weather.com",
+    "wpVersion": "6.1"
+  },
+  {
+    "url": "https://www.accuweather.com",
+    "wpVersion": "6.4"
+  },
+  {
+    "url": "https://www.wunderground.com",
+    "wpVersion": "5.8"
+  },
+  {
+    "url": "https://www.noaa.gov",
+    "wpVersion": "6.5"
+  },
+  {
+    "url": "https://www.discovery.com",
+    "wpVersion": "6.6"
+  },
+  {
+    "url": "https://www.history.com",
+    "wpVersion": "6.2"
+  },
+  {
+    "url": "https://www.smithsonianmag.com",
+    "wpVersion": "5.9"
+  },
+  {
+    "url": "https://www.archaeology.org",
+    "wpVersion": "6.3"
+  },
+  {
+    "url": "https://www.wsj.com",
+    "wpVersion": "6.4"
+  },
+  {
+    "url": "https://www.ft.com",
+    "wpVersion": "5.8"
+  },
+  {
+    "url": "https://www.marketwatch.com",
+    "wpVersion": "6.5"
+  },
+  {
+    "url": "https://www.cnbc.com",
+    "wpVersion": "6.0"
+  },
+  {
+    "url": "https://www.businessinsider.com",
+    "wpVersion": "6.6"
+  },
+  {
+    "url": "https://www.fortune.com",
+    "wpVersion": "6.2"
+  },
+  {
+    "url": "https://www.inc.com",
+    "wpVersion": "5.9"
+  },
+  {
+    "url": "https://www.entrepreneur.com",
+    "wpVersion": "6.3"
+  },
+  {
+    "url": "https://www.fastcompany.com",
+    "wpVersion": "6.1"
+  },
+  {
+    "url": "https://www.techcrunch.com",
+    "wpVersion": "6.4"
+  },
+  {
+    "url": "https://www.engadget.com",
+    "wpVersion": "5.8"
+  },
+  {
+    "url": "https://www.theverge.com",
+    "wpVersion": "6.5"
+  },
+  {
+    "url": "https://www.cnet.com",
+    "wpVersion": "6.0"
+  },
+  {
+    "url": "https://www.zdnet.com",
+    "wpVersion": "6.6"
+  },
+  {
+    "url": "https://www.pcmag.com",
+    "wpVersion": "6.2"
+  },
+  {
+    "url": "https://www.techradar.com",
+    "wpVersion": "5.9"
+  },
+  {
+    "url": "https://www.digitaltrends.com",
+    "wpVersion": "6.3"
+  },
+  {
+    "url": "https://www.makeuseof.com",
+    "wpVersion": "6.1"
+  },
+  {
+    "url": "https://www.lifehacker.com",
+    "wpVersion": "6.4"
+  },
+  {
+    "url": "https://www.howtogeek.com",
+    "wpVersion": "5.8"
+  },
+  {
+    "url": "https://www.gizmodo.com",
+    "wpVersion": "6.5"
+  },
+  {
+    "url": "https://www.mashable.com",
+    "wpVersion": "6.0"
+  },
+  {
+    "url": "https://www.techspot.com",
+    "wpVersion": "6.6"
+  },
+  {
+    "url": "https://www.arstechnica.com",
+    "wpVersion": "6.2"
+  },
+  {
+    "url": "https://www.anandtech.com",
+    "wpVersion": "5.9"
+  },
+  {
+    "url": "https://www.tomshardware.com",
+    "wpVersion": "6.3"
+  },
+  {
+    "url": "https://www.imdb.com",
+    "wpVersion": "6.1"
+  },
+  {
+    "url": "https://www.rottentomatoes.com",
+    "wpVersion": "6.4"
+  },
+  {
+    "url": "https://www.metacritic.com",
+    "wpVersion": "5.8"
+  },
+  {
+    "url": "https://www.boxofficemojo.com",
+    "wpVersion": "6.5"
+  },
+  {
+    "url": "https://www.variety.com",
+    "wpVersion": "6.0"
+  },
+  {
+    "url": "https://www.hollywoodreporter.com",
+    "wpVersion": "6.6"
+  },
+  {
+    "url": "https://www.deadline.com",
+    "wpVersion": "6.2"
+  },
+  {
+    "url": "https://www.indiewire.com",
+    "wpVersion": "5.9"
+  },
+  {
+    "url": "https://www.empireonline.com",
+    "wpVersion": "6.3"
+  }
+]
